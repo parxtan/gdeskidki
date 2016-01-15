@@ -1,0 +1,1 @@
+<?$news = News::model()->getLatest(3);?><?if($news){?>	<div class="widget shadow" id="news_widget">		<h3>Новости и статьи</h3>		<?foreach($news as $k=>$v){?>			<div class="news">				<a href="<?=$this->getLink($v)?>"><?=$v->name?></a>				<?if($v->announce){?>					<p><?=nl2br($v->announce)?></p>				<?}?>			</div>		<?}?>	</div><?}?>

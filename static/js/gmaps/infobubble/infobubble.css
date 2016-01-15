@@ -1,0 +1,8 @@
+.infobubble{font:12px/1.6 Arial;color:#3D4143;padding:10px 10px 3px;}
+.infobubble a{color:#00457c;text-decoration:underline;}
+.infobubble a:hover{text-decoration:none;}
+.infobubble .showcase{float:right;margin-top:5px;box-shadow:0 0 6px rgba(0, 0, 0, .2);padding:5px;height:70px;}
+.infobubble .brand_logo{max-width:150px;max-height:40px;display:block;margin-bottom:10px;}
+.infobubble p{margin-bottom:10px;}
+.infobubble .contact{font:11px/1.6 Arial;color:#656B70;}
+img.infobubble_close{margin-right:-8px;margin-top:-8px;}

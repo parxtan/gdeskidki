@@ -1,0 +1,15 @@
+.radius5{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-ms-border-radius: 5px;
+	border-radius: 5px;
+	behavior: url(/static/css/PIE.htc);
+}
+
+.radius10{
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-ms-border-radius: 10px;
+	border-radius: 10px;
+	behavior: url(/static/css/PIE.htc);
+}

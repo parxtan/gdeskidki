@@ -1,0 +1,10 @@
+body{font:12px/2 Arial;color:#6a8190;}
+.h1{font:25px Arial;color:#6a8190;}
+.h2{font:18px Arial;color:#7c7c7c;}
+.h3{font:18px Arial;color:#6a8190;}
+.h5{font:bold 14px Arial;color:#6a8190;margin-bottom:10px;}
+table{line-height:1.4;}
+hr{border:0;background:url(/static/img/hr.gif) repeat-x left top;height:2px;overflow:hidden;margin:15px 0 20px;}
+
+.show-link,.hide-link{color:#24AEFF;cursor:pointer;border-bottom:1px dashed #24AEFF;line-height:1.2;}
+.show-hide-block{}
